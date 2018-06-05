@@ -44,7 +44,7 @@ Azure Machine Learning Package for Computer Vision (AMLPCV) is a Python extensio
 
 ## Real-time vision demo
 ![image classification demo](image-classification.png)
-- 카카오프렌즈 라이언/어피치 iamge Classification / object detection demo
+- 카카오프렌즈 라이언/어피치 Image Classification / Object Detection demo
 - Code 하위 폴더 참조
 
 ## 발표자료 다운로드
